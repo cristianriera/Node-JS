@@ -4,6 +4,8 @@ body{
 header{
   width: inherit;
   height: 200px;
+  margin: 0 300px;
+
 }
 a{
   background-color: #fff;
@@ -12,16 +14,16 @@ a{
   margin: auto;
 }
 header img{
-  width:40%;
-  height: 75%;
-  margin: 0 100px;
+  width: 30%;
+  height: 50%;
+  margin: 0 250px;
 }
 article{
   width: inherit;
   height: 200px;
 }
 article img {
-  width: 70%;
-  height: 70%;
-  margin:
+  width: 50%;
+  height: 80%;
+  margin: 0 300px;
 }
